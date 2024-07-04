@@ -1,0 +1,1 @@
+# sma_trading_bot
