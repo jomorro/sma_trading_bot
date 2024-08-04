@@ -18,11 +18,11 @@ This project implements a moving average trading strategy to analyze and trade s
 
 1. Clone the repository:
 
-        git clone https://github.com/yourusername/moving-average-trading-strategy.git
+        git clone https://github.com/yourusername/sma_trading_bot.git
 
 2. Navigate to the project directory:
 
-        cd moving-average-trading-strategy
+        cd sma_trading_bot
 
 3. Create a virtual environment (optional but recommended):
 
